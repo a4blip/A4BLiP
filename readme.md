@@ -27,7 +27,7 @@ As archivists, we are committed to anti-oppression values:
 
 * We support and reaffirm the strength of Black colleagues in the Philadelphia area and beyond the region.
 
-* As archivists, we acknowledge our responsibility to defend these values:
+As archivists, we acknowledge our responsibility to defend these values:
 
 * We support policy recommendations and police contracts that retain records of past misconduct (both sustained and unsustained) from police disciplinary files for an adequate time period and ensure that disciplinary records may be released to the public via a Freedom of Information Act (FOIA) request.
 
