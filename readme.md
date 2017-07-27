@@ -17,11 +17,11 @@ As archivists, we are committed to anti-oppression values:
 * We advocate for intersectional justice that recognizes overlapping or intersecting social identities and the related systems of oppression, domination, or discrimination.
 
 * We recognize that archives are located within systems of white supremacy, also known as structural racism, in the sense that:
- * Archives are often situated within institutions of power that historically have reinforced systemic oppression.
- * Archives have historically been inaccessible or unwelcoming to marginalized groups.
- * Archivists are an overwhelmingly white profession (approximately 93% white as of the 2004 A*CENSUS survey)
- * Archival collecting has enshrined dominant narratives of rich, white, heterosexual, cisgender men as the most deserving of attention and preservation, while ignoring or erasing narratives of marginalized communities. 
- * Archival theory is rooted in concepts like provenance that promote social hierarchy and privilege document-creators (those who have the means to create and preserve records) over subjects.
+    * Archives are often situated within institutions of power that historically have reinforced systemic oppression.
+    * Archives have historically been inaccessible or unwelcoming to marginalized groups.
+    * Archivists are an overwhelmingly white profession (approximately 93% white as of the 2004 A*CENSUS survey)
+    * Archival collecting has enshrined dominant narratives of rich, white, heterosexual, cisgender men as the most deserving of  attention and preservation, while ignoring or erasing narratives of marginalized communities. 
+    * Archival theory is rooted in concepts like provenance that promote social hierarchy and privilege document-creators (those who have the means to create and preserve records) over subjects.
 
 * We commit to critically examine archival theory and practice, to educate ourselves about the active relationship between archives and social justice, and to engage collaboratively with marginalized communities, bringing an open mindedness to learning and sharing authority. 
 
