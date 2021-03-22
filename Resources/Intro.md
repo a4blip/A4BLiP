@@ -12,5 +12,6 @@ A4BLiP encourages white archivists and non-Black archivists of color who are com
 <a name="myfootnote1">[1]</a>: Society of American Archivists, “Introduction to Describing Archival Materials,” Describing Archives: A
 Content Standard (DACS), 2nd Ed. SAA, approved 2013, last updated July 2019,
 https://github.com/saa-ts-dacs/dacs/blob/master/06_part_I/01_introduction_to_describing_archival_materials.md. 
+
 <a name="myfootnote1">[3]</a>: Thank you to Jasmine Clark for encouraging us to be more direct when talking about the white supremacist values that underlie our
 field and society.
