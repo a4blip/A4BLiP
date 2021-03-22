@@ -1,6 +1,4 @@
-<p align="center">
-
-!(Archives for Black Lives in philadelphia Anti-Racist Description Resources)[TitlePageImage.png]
+![Archives for Black Lives in philadelphia Anti-Racist Description Resources](TitlePageImage.png)
 
 **Created by Archives for Black Lives in Philadelphia’s Anti-Racist Description Working Group**
 
@@ -10,4 +8,3 @@
 
 **Entered into GitHub March 2021**
 
-</p>
