@@ -1,6 +1,6 @@
-## Credits & Acknowledgments
+# Credits & Acknowledgments
 
-# Authors
+## Authors
 
 *Alexis A. Antracoli*
 
@@ -51,7 +51,7 @@ Katy is the Coordinator of Technical Services for the Special Collections Resear
 She is interested in ethical cataloging and archival description, the importance of naming and name authority
 work, and the exploration of non-linear time in archives. She is a white cis-woman.
 
-# Reviewers
+## Reviewers
 
 We would like to thank the following individuals for reviewing the guidelines. Th eir extraordinarily insightful
 and constructive feedback was essential to the success of the project.
@@ -67,7 +67,7 @@ and constructive feedback was essential to the success of the project.
 * Rachel Winston
 
 
-![CCImage](CCImage.png)CCImage.png
+![CCImage]
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this
 license, visit [http://creativecommons.org/licenses/by/4.0/](http://creativecommons.org/licenses/by/4.0/) or send a letter to Creative Commons, PO Box 1866,
