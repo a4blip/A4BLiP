@@ -14,7 +14,7 @@ Like much of archival practice, this project and the work the group has produced
 
 Based on feedback from reviewers we have decided to capitalize the word Black when used in the context of
 identity and race. Our decision was based on thoughtful consideration of Black archivists’ feedback, current style
-guides, and approaches used by contemporary Black writers and journalists.<sup>[4](#myfootnote1) We have chosen not to use the term
+guides, and approaches used by contemporary Black writers and journalists.<sup>[4](#myfootnote1)</sup> We have chosen not to use the term
 African American because the archival materials that these recommendations apply to may describe Black people
 outside the United States. We have decided not to capitalize the word white, in accordance with common practice
 and contemporary style guides and because the capitalization of white is a practice commonly used by white
