@@ -9,3 +9,16 @@ The metadata recommendations were informed by a bibliography of sources members 
 Due to the aforementioned nature of this working group (consisting of mostly white women), and in order to get community input, A4BLiP established a GoFundMe last December and successfully raised over $1,000 to pay Black archivists to review the recommendations and annotated bibliography before publishing. We thank the 28 individuals who donated to this fund. Potential reviewers were nominated by working group members (several are people with whom members have professional and/or personal relationships). Nine individuals, including archivists and allied professionals, ultimately reviewed the documents and offered feedback, which the working group then incorporated. The feedback we received during the review process was extraordinarily insightful, constructive, and essential to the success of this project. Thank you.
 
 Like much of archival practice, this project and the work the group has produced is iterative. The resources the working group has created are by no means exhaustive, and the recommendations we make should be regularly reassessed for impact and omissions. A sustainable approach to anti-oppressive description means that we need to center people in all of our metadata practices and adapt our strategies for doing so over time. We welcome your feedback. You can reach us at a4blip@gmail.com.
+
+## A Note on Language
+
+Based on feedback from reviewers we have decided to capitalize the word Black when used in the context of
+identity and race. Our decision was based on thoughtful consideration of Black archivists’ feedback, current style
+guides, and approaches used by contemporary Black writers and journalists.<sup>[4](#myfootnote1) We have chosen not to use the term
+African American because the archival materials that these recommendations apply to may describe Black people
+outside the United States. We have decided not to capitalize the word white, in accordance with common practice
+and contemporary style guides and because the capitalization of white is a practice commonly used by white
+supremacists. However, our annotated bibliography entries refl ect the language conventions used by the authors of
+the articles themselves, which occasionally deviate from those used throughout the rest of this document.
+
+<a name="myfootnote1">[4]</a>: Elahe Izadi, “When to Capitalize ‘Black’ and ‘White,’” DCentric (blog), May 16, 2012, [http://dcentric.wamu.org/2011/10/when-to-capatalize-Black-and-white/;](http://dcentric.wamu.org/2011/10/when-to-capatalize-Black-and-white/) “White, white,” Th e Diversity Style Guide, ed. Rachele Kanigel, accessed 2019, https://www.diversitystyleguide.com/glossary/white-white/; Lori L. Th arps, “Th e Case for Black with a Capital B,” Th e New York Times, November 19, 2014, [https://www.nytimes.com/2014/11/19/opinion/the-case-for-Black-with-a-capital-b.html](https://www.nytimes.com/2014/11/19/opinion/the-case-for-Black-with-a-capital-b.html); Gabrielle Foreman, Activists Sentiments: Reading Black Women in the Nineteenth Century (Urbana: University of Illinois Press, 2009).
