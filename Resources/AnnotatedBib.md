@@ -7,3 +7,16 @@ and descriptive standards. These sources emphasize the role information professi
 
 <a name="myfootnote1">[1]</a>: Thank you to Dorothy Berry and Jasmine Clark for suggesting that we provide more detail about how archives have reinforced a
 white supremacist patriarchal society by erasing and othering marginalized groups.
+
+**Arroyo-Ramirez, Elvia, Molly Brown, Dinah Handel, Jasmine Jones, Shannon O’Neill, Rachel Mattson,
+Giordana Mecagni, Holly Smith, and Kelly Wooten.“Radical Empathy in Archival Practice.”** Presentation,
+Society of American Archivists Annual Meeting, Portland, OR, July 2017. [https://archives2017.sched.com/
+event/ABGy/301-radical-empathy-in-archival-practice](https://archives2017.sched.com/
+event/ABGy/301-radical-empathy-in-archival-practice)
+
+Breakout session notes:
+[https://docs.google.com/document/d/1rYjZop2Hphd_796QBDm-8GV3rHRLX4H1U7noFzdrGl/edit](https://docs.google.com/document/d/1rYjZop2Hphd_796QBDm-8GV3rHRLX4H1U7noFzdrGl/edit)
+
+Mini-zine: [https://drive.google.com/file/d/1LryGuU1blZpk1Ts2L3nfNe40NY1Ck82r/view](https://drive.google.com/file/d/1LryGuU1blZpk1Ts2L3nfNe40NY1Ck82r/view)
+
+At SAA 2017, a group of nine archivists delivered lightning talks and facilitated a dialogue in response to Michelle Caswell and Marika Cifor’s article “From Human Rights to Feminist Ethics: Radical Empathy in Archives.” Presentations touched on ethical collaboration and partnerships, secondary trauma and suspended grief, archival education and horizontal mentorship, vendor control of marginalized histories, and emotional labor, among other topics. The speakers collectively posited a fifth affective relationship, the relationship between archivist and archivist, in addition to the four outlined by Caswell and Cifor. While many of the talks were relevant to an ethical approach towards description, of particular relevance for this project is Holly Smith’s discussion of her work documenting the history of Black women at Spelman College, in which she provided strategies for how archivists can responsibly collaborate with and document diverse communities without co-opting their voices. Giordana Mecagni’s talk also critiqued institutions that purchase and digitize materials documenting the histories of Black, activist, and other marginalized communities only to keep them behind a paywall, arguing instead for decolonized digital archives that are accountable to the communities they document. Breakout session notes include strategies discussed by small groups about how to apply radical empathy and an ethics of care to various aspects of their work as archivists.
