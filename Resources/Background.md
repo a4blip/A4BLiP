@@ -1,4 +1,4 @@
-** Background
+## Background
 
 [Archives for Black Lives in Philadelphia (A4BLiP)](https://archivesforblacklives.wordpress.com/) is a loose association of archivists, librarians, and allied professionals in the Philadelphia and Delaware Valley area responding to the issues raised by the Black Lives Matter movement. One of its working groups, the Anti-Racist Description Working Group, is addressing anti-oppressive archival description. The project was inspired by Teressa Raiford, a Portland-based activist and founder of the organization Don’t Shoot PDX, who collaborated with A4BLiP on a conference presentation at the Society of American Archivists Annual Meeting in Portland, Oregon in 2017. 
 
