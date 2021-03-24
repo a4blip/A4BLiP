@@ -8,7 +8,7 @@ and descriptive standards. These sources emphasize the role information professi
 <a name="myfootnote1">[1]</a>: Thank you to Dorothy Berry and Jasmine Clark for suggesting that we provide more detail about how archives have reinforced a
 white supremacist patriarchal society by erasing and othering marginalized groups.
 
-    **Arroyo-Ramirez, Elvia, Molly Brown, Dinah Handel, Jasmine Jones, Shannon O’Neill, Rachel Mattson, Giordana Mecagni, Holly Smith, and Kelly Wooten.“Radical Empathy in Archival Practice.” Presentation, Society of American Archivists Annual Meeting, Portland, OR, July 2017.[https://archives2017.sched.com/event/ABGy/301-radical-empathy-in-archival-practice](https://archives2017.sched.com/event/ABGy/301-radical-empathy-in-archival-practice)**
+**Arroyo-Ramirez, Elvia, Molly Brown, Dinah Handel, Jasmine Jones, Shannon O’Neill, Rachel Mattson, Giordana Mecagni, Holly Smith, and Kelly Wooten.“Radical Empathy in Archival Practice.” Presentation, Society of American Archivists Annual Meeting, Portland, OR, July 2017.[https://archives2017.sched.com/event/ABGy/301-radical-empathy-in-archival-practice](https://archives2017.sched.com/event/ABGy/301-radical-empathy-in-archival-practice)**
 
 Breakout session notes:
 [https://docs.google.com/document/d/1rYjZop2Hphd_796QBDm-8GV3rHRLX4H1U7noFzdrGl/edit](https://docs.google.com/document/d/1rYjZop2Hphd_796QBDm-8GV3rHRLX4H1U7noFzdrGl/edit)
