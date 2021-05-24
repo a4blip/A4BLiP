@@ -189,3 +189,33 @@ Roane, J. T. "Locating Black Queer Pasts.” Black Perspectives (blog). African 
 Roberto, K. R. “Inflexible Bodies: Metadata for Transgender Identities.” *Journal of Information Ethics* 20, no. 2 (2011): 56-64. http://dx.doi.org/10.3172/JIE.20.2.56
 
 Roberto, K. R., ed. *Radical Cataloging: Essays At the Front*. Jefferson, NC: McFarland & Co., 2008.
+
+Sahadath, Catelynne. “Classifying the Margins: Using Alternative Classification Schemes to Empower Diverse and Marginalized Users.” *Feliciter* 59, no. 3 (2013): 15-17. https://search.proquest.com/docview/1371822322?accountid=13314
+
+Sangwand, T-Kay. “Preservation is Political: Enacting Contributive Justice and Decolonizing Transnational Archival Collaborations.” *KULA: knowledge creation, dissemination, and preservation studies* 2, no. 1 (2018). http://doi.org/10.5334/kula.36
+
+Schomberg, Jessica. “Cataloging and Sociology” (bibliography). Research about Cataloging and Assessment and more... (blog). February 3, 2014. http://catassessmentresearch.blogspot.com/2014/02/cataloging-and-social-justice.html
+
+Shilton, Katie and Ramesh Srinivasan. “Participatory Appraisal and Arrangement for Multicultural Archival Collections.” *Archivaria* 63, no. 1 (Spring 2007), 87-101. https://archivaria.ca/index.php/archivaria/article/view/13129
+
+Sinn, Donghee. “Archival Description and Records from Historically Marginalized Cultures : A View from a Postmodern Window.” *Journal of the Korean Society for Library and Information Science* 44, no. 4 (2010): 115-130. http://dx.doi.org/10.4275/KSLIS.2010.44.4.115
+
+Society of American Archivists. *Describing Archives: A Content Standard (DACS)*. 2nd Ed. SAA, approved 2013, last updated July 2019. https://www2.archivists.org/standards/describing-archives-a-content-standard-dacs-second-edition
+
+Society of American Archivists Issues & Advocacy Section. “#ArchivesSoWhite Intro & Bibliography.” Issues & Advocacy (blog). Society of American Archivists, April 18, 2016. https://issuesandadvocacy.wordpress.com/2016/04/18/archivessowhite-intro-bibliography/
+
+Smith, Helen Wong. “Cultural Diversity Competency” (Online course). Society of American Archivists. https://pathlms.com/saa/courses/4839 
+
+Sutherland, Tonia. “Archival Amnesty: In Search of Black American Transitional and Restorative Justice.” *Journal of Critical Library and Information Services* 1, no. 2 (2017). https://doi.org/10.24242/jclis.v1i2.42
+
+Tai, Jessica. “Retelling as Resistance: Towards the Implementation of Community-Centered Frameworks in the Redescription of Photographic Archives Documenting Marginalized Communities.” *Views* 32, no. 1 (Spring/Summer 2018): 13-16. http://saavms.org/wp-content/uploads/2018/05/Views_SpringSummer_2018.pdf
+
+Tang, Annie, Dorothy Berry, Rachel Winston, and Kelly Bolding. “Toward Culturally Competent Archival (Re) Description of Marginalized Histories.” Papers presented at the Society of American Archivists Annual Conference, Washington, DC, August 2018. https://archives2018.sched.com/event/ESld/101-toward-culturally-competent-archival-redescription-of-marginalized-histories
+
+Tenney, Martha. “Equity, Justice, and Feminist Ethics of Care in Digital Archival Practice.” Paper presented at National Digital Stewardship Alliance Digital Preservation conference, October 2017. https://sched.co/Bztn 
+
+Thethi, Jass. “Archives and Inclusivity: Respectful Descriptions of Marginalised Groups.” The John Rylands Library Special Collections Blog (blog). John Rylands Library, August 25, 2018. https://rylandscollections.wordpress.com/2018/08/25/respectful-descriptions-of-marginalised-groups-in-archives/
+
+Thomas, Hanna, and Anna Hirsch. A Progressive’s Style Guide. Sum of Us, 2016. https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf
+
+Thompson, Kelly J. “More Than A Name: A Content Analysis of Name Authority Records for Authors Who Self-Identify as Trans.” *Library Resources & Technical Services* 60, no. 3 (2016): 140-155. https://journals.ala.org/index.php/lrts/article/view/6036/7732
