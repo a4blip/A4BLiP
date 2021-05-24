@@ -92,3 +92,56 @@ Geraci, Noah. “Programmatic Approaches to Bias in Descriptive Metadata.” Sli
 Gonzalez, Gloria, and Jasmine Jones. “Access & Diversity: How to Create Practical, Ethical, Minimal Archival Description.” Session facilitated at Intersections: Technology and Public Services in Special Collections Symposium, University Park, PA, August 2017. https://docs.google.com/document/d/1U6T3TOhOlROccSHYAxSsd5l6blh2dO7CwS60mf26kWU
 
 Granados-Ocon, Carlos. “On Archival Finding Aids: Description, Power, and the Need for Shared Authority.” *KAPSULA Magazine: Bad History* 1, no. 3 (March 2014). https://kapsula.ca/releases/KAPSULA_BADHISTORY_3of3.pdf 
+
+Handel, Dinah. #critlib “Archives” Twitter chat. Moderated by @barnlib. Twitter, December 2, 2014. http://critlib.org/wp-content/uploads/2018/03/critlib-2014-12-02.pdf
+
+Helton, Laura E. “On Decimals, Catalogs, and Racial imaginaries of Reaing.” *PMLA* 134, no.1 (2019): 99-120. https://doi.org/10.1632/pmla.2019.134.1.99
+
+Hogan, Kristen. “Breaking Secrets” in the Catalog: Proposing the Black Queer Studies Collection at the University of Texas at Austin.” *Progressive Librarian* 34 (Fall 2010): 50-57,106. https://search.proquest.com/docview/851873408?accountid=13314 
+
+Honma, Todd. “Trippin’ Over the Color Line: The Invisibility of Race in Library and Information Studies.” *InterActions: UCLA Journal of Education and Information Studies*, 1, no 2. (2005): https://escholarship.org/uc/item/4nj0w1mp
+
+Huber, Jeffrey T., and Mary L. Gillaspy. “Social Constructs and Disease: Implications for a Controlled Vocabulary for HIV/AIDS.” *Library Trends* 47, no. 2 (Fall 1998): 190-208. https://search.proquest.com/docview/220437703?accountid=13314
+
+Hughes-Watkins, Lae’l. “Moving Toward a Reparative Archive: A Roadmap for a Holistic Approach to Disrupting Homogenous Histories in Academic Repositories and Creating Inclusive Spaces for Marginalized Voices.” *Journal of Contemporary Archival Studies* 5, no. 6. (2018). https://elischolar.library.yale.edu/jcas/vol5/iss1/6
+
+Hwang Jensen, Sine, Melissa S. Stoner, and Lillian Castillo-Speed. “Metadata Justice: At the Intersection of Social Justice and Cataloging.” 2019 ACRL President’s Program (blog). EDI Discussions Series. Association of College and Research Libraries, March 25, 2019. https://acrl.libguides.com/c.php?g=899144&p=6468942&t=34793
+
+Iacovino, Livia. “Rethinking Archival, Ethical and Legal Frameworks for Records of Indigenous Australian Communities: A Participant Relationship Model of Rights and Responsibilities.” *Archival Science* 10, no. 4 (December 2010): 353-372. https://doi.org/10.1007/s10502-010-9120-3
+
+Incluseum. “Tools and Publications.” https://incluseum.com/tools/
+
+Jules, Bergis. “Confronting Our Failure of Care Around the Legacies of Marginalized People in the Archives.” Keynote presented at National Digital Stewardship Alliance Digital Preservation conference, Milwaukee, WI, November 2016. https://medium.com/on-archivy/confronting-our-failure-of-care-around-the-legaciesof-marginalized-people-in-the-archives-dc4180397280
+
+Kapitan, Alex. Radical Copyeditor (blog). https://radicalcopyeditor.com/
+
+Kaplan, Elisabeth. “‘Many Paths to Partial Truths’: Archives, Anthropology, and the Power of Representation.” *Archival Science* 2, no. 3 (2002): 209-220.
+
+Karlsson, Jessica. “Beyond Invisibility: A Case-Study of Visualization of Gender in Already Organized Archives through the Gender and Work Project.” Master’s thesis, Uppsala University, 2015. http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-253544
+
+Kinsley, Rose, Margaret Middleton, and Porchia Moore. “(Re) Frame: Th e Case for New Language in the 21st-Century Museum.” Exhibition (Spring 2016). https://drive.google.com/file/d/0B2mitjKPAu6yMGN1YUxfQ2F5ZVk/view
+
+Lar-Son, Kayla, Denise Koufogiannakis, Sheila Laroque, Debbie Feisst, Anne Carr-Wiggin, Sharon Farnel, and Ian Bigelow. “Unsettling Our Practices: Decolonizing Description at the University of Alberta Libraries.” Poster presented at Diversity by Design Symposium, Toronto, ON, September 2017. https://era.library.ualberta.ca/files/g158bm12d
+
+Larade, Sharon, and Johanne Pelletier. “Mediating in a Neutral Environment: Gender-Inclusive or Neutral Language in Archival Descriptions” *Archivaria* 35 (1992): 99-109. https://archivaria.ca/index.php/archivaria/article/view/11889/12842
+
+Laroque, Sheila, Anne Carr-Wiggin, Ian Bigelow, Denise Koufogiannakis, Sharon Farnel, Kayla Lar-Son, and Debbie Feisst. “Decolonizing Description: Changing Metadata in Response to the Truth and Reconciliation Commission.” Slides presented at Netspeed Library Technologies Conference in Edmonton, AB, October 2017. https://era.library.ualberta.ca/files/bd504rk55z
+
+librarieswehere (online community). Instagram: https://instagram.com/librarieswehere/ Website: https://librarieswehere.wordpress.com/
+
+Light, Michelle, and Tom Hyry. “Colophons and Annotations: New Directions for the Finding Aid.” *American Archivist* 65, no. 2 (2002): 216-230. https://www.jstor.org/stable/40294207
+
+Littletree, Sandra, and Cheryl A. Metoyer, “Knowledge Organization from an Indigenous Perspective: The Mashantucket Pequot Thesaurus of American Indian Terminology Project.” *Cataloging and Classification Quarterly* 53, no. 5-6 (2015): 640-657. https://doi.org/10.1080/01639374.2015.1010113
+
+Liverpool University Centre for Archive Studies. “Protocols for Describing and Managing Racially Offensive Archives.” Twitter discussion of event held at the University of Liverpool, May 2018. https://twitter.com/hashtag/racistrecords
+
+Long, Kara, Santi Thompson, Sarah Potvin, and Monica Rivero. The “Wicked Problem” of Neutral Description: Toward a Documentation Approach to Metadata Standards. *Cataloging & Classification Quarterly* 55, no. 3 (2017): 107-128. https://doi.org/10.1080/01639374.2016.1278419
+
+Loewenthal, Anna B. “Comparing Representations of Race in Finding Aids Over Time.” Master’s thesis, University of North Carolina at Chapel Hill, 2015. https://doi.org/10.17615/xjty-ya81
+
+Luster, Dominique. “Archives Have the Power to Boost Marginalized Voices.” Talk delivered at TEDxPittsburgh, Pittsburgh, PA, June 2018. https://youtube.com/watch?v=XsNPlBBi1IE
+
+Luster, Dominique, Abdi Roble, Ellen Engseth, and Athena Jackson. “Culture, Competencies, and Colleagues: a Cafe on divers*.” World café session facilitated at the Society of American Archivists Annual Meeting, Portland, OR, July 2017. http://sched.co/ABGn
+
+Lyon, Meghan. Rubenstein Processing Zine. David M. Rubenstein Rare Book and Manuscript Library. Duke Libraries, 2016. https://drive.google.com/drive/folders/0B5NFn3rudrDgTk9HXzdUZHNMaUk
+
