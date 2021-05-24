@@ -219,3 +219,21 @@ Thethi, Jass. “Archives and Inclusivity: Respectful Descriptions of Marginalis
 Thomas, Hanna, and Anna Hirsch. *A Progressive’s Style Guide*. Sum of Us, 2016. https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf
 
 Thompson, Kelly J. “More Than A Name: A Content Analysis of Name Authority Records for Authors Who Self-Identify as Trans.” *Library Resources & Technical Services* 60, no. 3 (2016): 140-155. https://journals.ala.org/index.php/lrts/article/view/6036/7732
+
+Walker, Shaundra, Skyla S. Hearn, Shanee’ Yvette Murrain, Chaitra Powell, and Holly A. Smith. “Democratic Histories: Strategies for Engaging African American Communities in the Archival Process.” Papers presented at the National Conference of African American Librarians, Atlanta, GA, August 2017. https://ncaal.bcala.org/event/9zkX/democratic-histories-strategies-for-engaging-african-american-communities-in-the-archival-process
+
+Warren, Kellee E. “We Need these Bodies, but Not their Knowledge: Black Women in the Archival Science Professions and their Connection to the Archives of Enslaved Black Women in the French Antilles.” *Library Trends* 64, no. 4 (2016): 776-794. https://muse.jhu.edu/article/622032
+
+Williams, Stacie M., and Jarrett Drake. “Power to the People: Documenting Police Violence in Cleveland.” *Journal of Critical Library and Information Studies* 1, no. 2 (2017). http://libraryjuicepress.com/journals/index.php/jclis/article/view/33
+
+Winn, Sam. “The Hubris of Neutrality in Archives.” Paper delivered at the Mid-Atlantic Regional Archives Conference, Newark, NJ, April 2017. https://medium.com/on-archivy/the-hubris-of-neutrality-in-archives-8df6b523fe9f
+
+Wood, Stacy, Kathy Carbone, Marika Cifor, Anne Gilliland, and Ricardo Punzalan. “Mobilizing Records: Re-Framing Archival Description to Support Human Rights.” *Archival Science* 14, no. 3-4 (October 2014): 397-419. https://doi.org/10.1007/s10502-014-9233-1 
+
+Wright, Kristen. “Language and the Words We Use.” Find & Connect (blog). Find & Connect Web Resource Project for the Commonwealth of Australia, September 8, 2017. https://www.fi ndandconnectwrblog.info/2017/09/language-and-the-words-we-use/
+
+Yakel, Elizabeth. “Archival Representation.” *Archival Science* 3, no. 1: 1-25 (2003). https://doi.org/10.1007/BF02438926
+
+Yakel, Elizabeth. “Seeking Information, Seeking Connections, Seeking Meaning: Genealogists and Family Historians.” *Information Research: An International Electronic Journal* 10, no. 1 (October 2004). http://informationr.net/ir/10-1/paper205.html
+
+Zavala, Jimmy, Alda Allina Migoni, Michelle Caswell, Noah Geraci, and Marika Cifor. “‘A Process Where We’re All at the Table’: Community Archives Challenging Dominant Modes of Archival Practice.” *Archives and Manuscripts* 45, no. 3 (2017): 202-215. https://doi.org/10.1080/01576895.2017.1377088
