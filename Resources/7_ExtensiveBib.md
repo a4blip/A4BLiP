@@ -216,6 +216,6 @@ Tenney, Martha. “Equity, Justice, and Feminist Ethics of Care in Digital Archi
 
 Thethi, Jass. “Archives and Inclusivity: Respectful Descriptions of Marginalised Groups.” The John Rylands Library Special Collections Blog (blog). John Rylands Library, August 25, 2018. https://rylandscollections.wordpress.com/2018/08/25/respectful-descriptions-of-marginalised-groups-in-archives/
 
-Thomas, Hanna, and Anna Hirsch. A Progressive’s Style Guide. Sum of Us, 2016. https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf
+Thomas, Hanna, and Anna Hirsch. *A Progressive’s Style Guide*. Sum of Us, 2016. https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf
 
 Thompson, Kelly J. “More Than A Name: A Content Analysis of Name Authority Records for Authors Who Self-Identify as Trans.” *Library Resources & Technical Services* 60, no. 3 (2016): 140-155. https://journals.ala.org/index.php/lrts/article/view/6036/7732
