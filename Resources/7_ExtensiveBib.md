@@ -145,3 +145,47 @@ Luster, Dominique, Abdi Roble, Ellen Engseth, and Athena Jackson. “Culture, Co
 
 Lyon, Meghan. Rubenstein Processing Zine. David M. Rubenstein Rare Book and Manuscript Library. Duke Libraries, 2016. https://drive.google.com/drive/folders/0B5NFn3rudrDgTk9HXzdUZHNMaUk
 
+Maliniemi, Kaisa. “Public Records and Minorities: Problems and Possibilities for Sami and Kven.” *Archival Science* 9, no. 15 (June 2009): 15-27. https://doi.org/10.1007/s10502-009-9104-3
+
+Matienzo, Mark A. “To Hell With Good Intentions: Linked Data, Community and the Power to Name.” Keynote delivered at LITA Forum, Minneapolis, MN, November 2015. http://matienzo.org/2016/to-hellwith-good-intentions/
+
+Merritt, Carole. “Slave Family Records: An Abundance of Material.” *Georgia Archive* 6, no. 1 (Spring 1978): 16-21. https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi?referer=http://paperity.org/p/81423121/georgia-archive-vi-issue-1&httpsredir=1&article=1230&context=georgia_archive
+
+Metoyer, Cheryl A., and Ann M. Doyle, eds. “Indigenous Knowledge Organization.” Special issue, *Cataloging & Classification Quarterly* 53, no. 5-6 (2015).
+http://catalogingandclassifi cationquarterly.com/ccq53nr5-6.html
+
+Millar, Laura. “An Obligation of Trust: Speculations on Accountability and Description.” *American Archivist* 69, no 1 (Spring-Summer 2006): 60-78. https://www.jstor.org/stable/40294311
+
+Moulaison, Heather Lea. “Authors and Authorities in Post-RDA Library Systems: A Case Study.” Paper presented at IFLA World Library and Information Congress, Lyon, France, August 2014. http://codabox.org/147/2/086-moulaison-en.pdf
+
+Newman, Jon. “Revisiting Archive Collections: Developing Models for Participatory Cataloguing.” *Journal of the Society of Archivists* 33, no. 1 (2012): 57-73. https://doi.org/10.1080/00379816.2012.666404
+
+Noble, Safiya Umoja. “Google Search: Hyper-visibility as a Means of Rendering Black Women and Girls Invisible,” *InVisible Culture* 19 (2013). http://ivc.lib.rochester.edu/google-search-hyper-visibility-as-ameans-of-rendering-black-women-and-girls-invisible/
+
+O’Hagan Hardy, Molly. “The Practice of Everyday Cataloging: ‘Blacks as authors’ and the Early American Bibliographic Record.” Past is Present (blog). American Antiquarian Society, June 29, 2017. http://pastispresent.org/2017/good-sources/the-practice-of-everyday-cataloging-black-bibliography-and-the-early-american-bibliographic-record
+
+Ockerbloom, John Mark. “Categorizing People without Marginalizing Them.” Everybody’s Libraries (blog). April 29, 2013. http://everybodyslibraries.com/2013/04/29/categorizing-people-without-marginalizing-them/
+
+Olson, Hope A. “The Power to Name: Representation in Library Catalogs.” *Signs* 26, no. 3 (Spring 2001): 639-668. https://www.jstor.org/stable/3175535
+
+Olson, Hope A. *The Power to Name: Locating the Limits of Subject Representation in Libraries*. Dordrecht, The Netherlands: Kluwer Academic Publishers, 2002.
+
+Olson, Hope A., and Rose Schlegl. “Standardization, Objectivity, and User Focus: A Meta-Analysis of Subject Access Critiques.” *Cataloging & Classification Quarterly* 32, no. 2 (2001): 61-80. https://doi.org/10.1300/J104v32n02_06
+
+Pagowsky, Nicole, and Niamh Wallace. “Black Lives Matter! Shedding Library Neutrality Rhetoric for Social Justice.” *College & Research Libraries News* 76, no. 4 (2015): 196-214. http://crln.acrl.org/index.php/crlnews/article/view/9293/10373
+
+Powell, Chaitra, Holly Smith, Shanee Murrain, and Skyla Hearn. “This \[Black\] Woman’s Work: Exploring Archival Projects that Embrace the Identity of the Memory Worker.” *KULA: knowledge creation, dissemination, and preservation studies* 2, no. 1 (2018). https://doi.org/10.5334/kula.25
+
+Ramirez, Mario H. “Being Assumed Not to Be: A Critique of Whiteness as an Archival Imperative.” *American Archivist* 78, no. 2 (Fall/Winter 2015): 339-356. https://www.jstor.org/stable/26356551 
+
+Rawson, K.J. “Accessing Transgender // Desiring Queer(er?) Archival Logics.” *Archivaria* 68 (Fall 2009): 123-140. https://archivaria.ca/index.php/archivaria/article/view/13234/14552
+
+Retter Vargas, Yolanda. “Preservation of LGBT History: The ONE Archive.” In *Pathways to Progress: Issues and Advances in Latino Librarianship*, edited by John L. Ayala and Salvador Güereña, 169-175. Santa Barbara, CA: Libraries Unlimited, 2012.
+
+Rinn, Meghan R. “Nineteenth-Century Depictions of Disabilities and Modern Metadata: A Consideration of Material in the P. T. Barnum Digital Collection.” *Journal of Contemporary Archival Studies* 5, no. 1 (2018). https://elischolar.library.yale.edu/jcas/vol5/iss1/1
+
+Roane, J. T. "Locating Black Queer Pasts.” Black Perspectives (blog). African American Intellectual History Society, December 13, 2016. https://aaihs.org/locating-black-queer-pasts/
+
+Roberto, K. R. “Inflexible Bodies: Metadata for Transgender Identities.” *Journal of Information Ethics* 20, no. 2 (2011): 56-64. http://dx.doi.org/10.3172/JIE.20.2.56
+
+Roberto, K. R., ed. *Radical Cataloging: Essays At the Front*. Jefferson, NC: McFarland & Co., 2008.
