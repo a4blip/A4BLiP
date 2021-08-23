@@ -53,7 +53,7 @@ work, and the exploration of non-linear time in archives. She is a white cis-wom
 
 ## Reviewers
 
-We would like to thank the following individuals for reviewing the guidelines. Th eir extraordinarily insightful
+We would like to thank the following individuals for reviewing the guidelines. Their extraordinarily insightful
 and constructive feedback was essential to the success of the project.
 
 * Krystal Appiah
