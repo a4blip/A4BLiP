@@ -8,6 +8,9 @@ A4BLiP encourages white archivists and non-Black archivists of color who are com
   * **Based on the recent critique of this book by a number of Black activists, we no longer recommend this book. We encourage people to consult the work of Black anti-racism educators.** 
 * SAA’s free online course Cultural Diversity Competency by Helen Wong Smith [https://www.pathlms.com/saa/courses/4839](https://www.pathlms.com/saa/courses/4839)
 
+## A Note on Language
+
+Based on feedback from reviewers we have decided to capitalize the word Black when used in the context of identity and race. Our decision was based on thoughtful consideration of Black archivists’ feedback, current style guides, and approaches used by contemporary Black writers and journalists. <sup>[4](#myfootnote4)</sup> We have chosen not to use the term African American because the archival materials that these recommendations apply to may describe Black people outside the United States. We have decided not to capitalize the word white, in accordance with common practice and contemporary style guides and because the capitalization of white is a practice commonly used by white supremacists. However, our annotated bibliography entries refl ect the language conventions used by the authors of the articles themselves, which occasionally deviate from those used throughout the rest of this document.
 
 <a name="myfootnote1">[1]</a>: Society of American Archivists, “Introduction to Describing Archival Materials,” *Describing Archives: A
 Content Standard (DACS)*, 2nd Ed. SAA, approved 2013, last updated July 2019,
@@ -17,3 +20,5 @@ https://github.com/saa-ts-dacs/dacs/blob/master/06_part_I/01_introduction_to_des
 
 <a name="myfootnote3">[3]</a>: Thank you to Jasmine Clark for encouraging us to be more direct when talking about the white supremacist values that underlie our
 field and society.
+
+<a name="myfootnote4">[4]</a>: Elahe Izadi, “When to Capitalize ‘Black’ and ‘White,’” DCentric (blog), May 16, 2012, http://dcentric.wamu.org/2011/10/when-to-capatalize-Black-and-white/; “White, white,” Th e Diversity Style Guide, ed. Rachele Kanigel, accessed 2019, https://www.diversitystyleguide.com/glossary/white-white/; Lori L. Th arps, “The Case for Black with a Capital B,” Th e New York Times, November 19, 2014, https://www.nytimes.com/2014/11/19/opinion/the-case-for-Black-with-a-capital-b.html; Gabrielle Foreman, Activists Sentiments: Reading Black Women in the Nineteenth Century (Urbana: University of Illinois Press, 2009).
