@@ -1,4 +1,4 @@
-# Anti-Racist Archival Description Annotated Bibliography
+# Anti-Racist Archival Description Extensive Bibliography
 
 This bibliography was created and maintained by the Anti-Racist Description Working Group of Archives for Black Lives in Philadelphia (A4BLiP). While started as part of the process of researching methods for combating anti-Black archival description specifi cally, this bibliography includes sources on anti-oppressive approaches to description within the library, archives, and museums fields more broadly. 
 
