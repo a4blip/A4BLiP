@@ -12,6 +12,8 @@ A4BLiP encourages white archivists and non-Black archivists of color who are com
 
 Based on feedback from reviewers we have decided to capitalize the word Black when used in the context of identity and race. Our decision was based on thoughtful consideration of Black archivists’ feedback, current style guides, and approaches used by contemporary Black writers and journalists. <sup>[4](#myfootnote4)</sup> We have chosen not to use the term African American because the archival materials that these recommendations apply to may describe Black people outside the United States. We have decided not to capitalize the word white, in accordance with common practice and contemporary style guides and because the capitalization of white is a practice commonly used by white supremacists. However, our annotated bibliography entries refl ect the language conventions used by the authors of the articles themselves, which occasionally deviate from those used throughout the rest of this document.
 
+___
+
 <a name="myfootnote1">[1]</a>: Society of American Archivists, “Introduction to Describing Archival Materials,” *Describing Archives: A
 Content Standard (DACS)*, 2nd Ed. SAA, approved 2013, last updated July 2019,
 https://github.com/saa-ts-dacs/dacs/blob/master/06_part_I/01_introduction_to_describing_archival_materials.md. 
