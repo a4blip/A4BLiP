@@ -188,7 +188,7 @@ Expand the range of audiences considered when writing archival description to in
 
 ## Describing Slavery Records
 
-* Use “enslaved” or “captive” [person/woman/man/child/laborer] rather than “slave” when describing peopleheld in bondage. <a name="myfootnote43">[43]</a> Use “enslaver” to describe people who held others in bondage.<sup>[44](#myfootnote44)</sup>
+* Use “enslaved” or “captive” [person/woman/man/child/laborer] rather than “slave” when describing people held in bondage. <sup>[43](#myfootnote43)</sup> Use “enslaver” to describe people who held others in bondage.<sup>[44](#myfootnote44)</sup>
 
 * Avoid lumping the experiences of all people of African origins or descent in the early Americas together. Use “free [person|man|woman] of color” (often abbreviated as “f.p.c,” “f.m.c,” or “f.w.c” on documents),“freed[person|man|woman],” or another term to describe those who were not enslaved during a period when slavery existed in that society. Note that terminology differs depending on geographic location or language, and conduct research to avoid using anachronistic or geographically or linguistically inaccurate terms.<sup>[45](#myfootnote45)</sup>
 
