@@ -188,7 +188,7 @@ Expand the range of audiences considered when writing archival description to in
 
 ## Describing Slavery Records
 
-* Use “enslaved” or “captive” [person/woman/man/child/laborer] rather than “slave” when describing peopleheld in bondage.43 Use “enslaver” to describe people who held others in bondage.<sup>[44](#myfootnote44)</sup>
+* Use “enslaved” or “captive” [person/woman/man/child/laborer] rather than “slave” when describing peopleheld in bondage. <a name="myfootnote43">[43]</a> Use “enslaver” to describe people who held others in bondage.<sup>[44](#myfootnote44)</sup>
 
 * Avoid lumping the experiences of all people of African origins or descent in the early Americas together. Use “free [person|man|woman] of color” (often abbreviated as “f.p.c,” “f.m.c,” or “f.w.c” on documents),“freed[person|man|woman],” or another term to describe those who were not enslaved during a period when slavery existed in that society. Note that terminology differs depending on geographic location or language, and conduct research to avoid using anachronistic or geographically or linguistically inaccurate terms.<sup>[45](#myfootnote45)</sup>
 
@@ -203,6 +203,9 @@ Expand the range of audiences considered when writing archival description to in
  * Link to finding aids and other resources at other institutions documenting the same enslavers, enslaved persons, and land.<sup>[50](#myfootnote50)</sup>
  
  * When determining whether to preserve original order or description for slavery collections, factor in the role record-keeping systems played in facilitating the slavery economy and consider whether there is a need to take mediating steps to support secondary use by persons dehumanized by the original functions of records and circumvent the “bureaucratic” logic of a repressive regime.<sup>[51](#myfootnote42)</sup> Mediating steps may include, but are certainly not limited to, additional description and extra effort to surface the names of enslaved persons in archival description and description that clearly identifies that records were kept to facilitate a repressive regime.
+
+<a name="myfootnote43">[43]</a>  P. Gabrielle Foreman, “Writing about Slavery/Teaching About Slavery: Th is Might Help.” Crowdsourced document, accessed
+August 22, 2018, https://docs.google.com/document/d/1A4TEdDgYslX-hlKezLodMIM71My3KTN0zxRv0IQTOQs.
 
 <a name="myfootnote44">[44]</a> Foreman et al., “Writing about Slavery;” “The Afterlife of Slavery: Language and Ethics,” LaTanya S. Autry, “The Afterlife of Slavery: Language & Ethics” (wakelet), July 2018, https://wakelet.com/wake/f589cdc4-7512-43ff-a489-5ed48062179f.
 
